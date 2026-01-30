@@ -1,2 +1,7 @@
-# venkatesh
-new to project
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)
+![MNIST](https://img.shields.io/badge/Dataset-MNIST-brightgreen)
+![CNN](https://img.shields.io/badge/Model-CNN-purple)
+![Colab](https://img.shields.io/badge/Platform-Google%20Colab-yellow?logo=googlecolab)
+![License](https://img.shields.io/badge/License-MIT-green)
